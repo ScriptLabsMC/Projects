@@ -13,3 +13,5 @@
 - [Discord](https://discord.gg/BFG3T8MBWN)
 - [YouTube](https://youtube.com/@ScriptLabs)
 - GitHub (You're already here)
+
+We'll love to help you!
