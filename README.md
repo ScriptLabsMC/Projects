@@ -6,3 +6,10 @@
  <li> Code Samples and examples to learn.</li>
 </ul>
 </header>
+
+***
+
+### Join us on:
+- [Discord](https://discord.gg/BFG3T8MBWN)
+- [YouTube](https://youtube.com/@ScriptLabs)
+- GitHub (You're already here)
