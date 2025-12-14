@@ -17,8 +17,8 @@
 
 | Arma | Historia |
 | :---: | :------- |
-| Arco del Alba | Forjado en una era donde el sol aún caminaba sobre la tierra. Se dice que eligió a su primer portador al disparar una flecha que jamás tocó el suelo. Solo obedece a quienes ven más allá de la batalla. |
-| Espada del Juicio | Creada para poner fin a guerras imposibles de ganar. La espada no corta carne sin motivo; juzga el alma de su enemigo antes de caer. Muchos intentaron blandirla. Pocos sobrevivieron. |
+| Arco del Crepúsculo | Forjado en una era donde el sol aún caminaba sobre la tierra. Se dice que eligió a su primer portador al disparar una flecha que jamás tocó el suelo. Solo obedece a quienes ven más allá de la batalla. |
+| Espada del Alba | Creada para poner fin a guerras imposibles de ganar. La espada no corta carne sin motivo; juzga el alma de su enemigo antes de caer. Muchos intentaron blandirla. Pocos sobrevivieron. |
 | Lanza de la Lealtad| Nació de un pacto antiguo entre guerreros y el mundo mismo. Nunca abandona a quien reconoce como su portador. Si es usada por alguien indigno, simplemente no regresa. |
 | Escudo del Bastión | Forjado para proteger el último refugio de la humanidad. No fue creado para atacar, sino para resistir lo inevitable. Solo se mueve en manos de quienes están dispuestos a sacrificarse por otros. |
 
