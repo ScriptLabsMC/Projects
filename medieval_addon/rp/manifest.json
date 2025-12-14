@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "metadata": {
+    "authors": ["ScriptLabs"],
+    "generated_with": {}
+  },
+  "header": {
+    "name": "Medieval Addon (By ScriptLabs)",
+    "description": "The Medieval Addon's Resource Pack",
+    "min_engine_version": [1, 21, 120],
+    "uuid": "20baee6d-d300-4db5-cb3f-c8d21a598033",
+    "version": [1, 0, 0]
+  },
+  "modules": [
+    {
+      "description": "resource",
+      "type": "resources",
+      "uuid": "71d27bec-aa73-4221-98bd-b14491c1f307",
+      "version": [1, 0, 0]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "6e48c28a-08b5-4113-936f-5866677e7a75",
+      "version": [1, 0, 0]
+    }
+  ],
+  "subpacks": []
+}
